@@ -1,5 +1,3 @@
-from turtle import distance
-
 import pygame
 
 
